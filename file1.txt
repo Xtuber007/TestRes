@@ -1,1 +1,2 @@
 I want to practice Git
+Hi it is ok
